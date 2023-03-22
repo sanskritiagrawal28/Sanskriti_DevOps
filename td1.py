@@ -3,7 +3,6 @@ for x in range(10):
 	turtle.forward(x*10)
 	turtle.left(90)
 	
-======================================================================================
 
 import turtle
 colors=["blue", "red", "green", "pink", "orange", "purple", "yellow"]
@@ -16,8 +15,6 @@ for x in range(360):
 	t.width(x/10 +1)
 	t.forward(x*2)
 	t.left(90)
-
-======================================================================================
 
 import turtle
 
